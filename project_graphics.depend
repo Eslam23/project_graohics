@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1556053659 source:d:\third level\second term\graphics\project_graphics\main.cpp
+	<cmath>
+	<math.h>
+	<tchar.h>
+	<windows.h>
+
